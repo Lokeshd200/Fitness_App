@@ -1,5 +1,5 @@
 import axios from "axios"
-const BASE_URL = "http://localhost:8080"
+const BASE_URL = "https://fitness-app-f6h7.onrender.com"
 
 export const getHeaders = () => {
     let token = ""
